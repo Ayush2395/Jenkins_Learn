@@ -1,6 +1,6 @@
 ﻿namespace Jenkins_Learn.Application.FunctionalTests;
 
-using static Testing;
+using static Jenkins_Learn.Application.FunctionalTests.Testing;
 
 [TestFixture]
 public abstract class BaseTestFixture

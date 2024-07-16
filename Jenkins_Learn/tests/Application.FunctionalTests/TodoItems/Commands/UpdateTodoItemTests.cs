@@ -3,7 +3,7 @@ using Jenkins_Learn.Application.TodoItems.Commands.UpdateTodoItem;
 using Jenkins_Learn.Application.TodoLists.Commands.CreateTodoList;
 using Jenkins_Learn.Domain.Entities;
 
-using static Testing;
+using static Jenkins_Learn.Application.FunctionalTests.Testing;
 
 namespace Jenkins_Learn.Application.FunctionalTests.TodoItems.Commands;
 public class UpdateTodoItemTests : BaseTestFixture

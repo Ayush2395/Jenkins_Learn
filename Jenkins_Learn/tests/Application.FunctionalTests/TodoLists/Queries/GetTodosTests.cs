@@ -2,7 +2,7 @@
 using Jenkins_Learn.Domain.Entities;
 using Jenkins_Learn.Domain.ValueObjects;
 
-using static Testing;
+using static Jenkins_Learn.Application.FunctionalTests.Testing;
 
 namespace Jenkins_Learn.Application.FunctionalTests.TodoLists.Queries;
 public class GetTodosTests : BaseTestFixture
